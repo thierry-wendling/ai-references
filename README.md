@@ -38,7 +38,7 @@ A collection of useful references for AI and ML science and engineering.
 ## Machine Learning
 ### General
 * Books:
- * https://d2l.ai/index.html
+  * https://d2l.ai/index.html
 * Crash courses:
   * https://developers.google.com/machine-learning/crash-course/ml-intro
   * https://www.algoexpert.io/machine-learning/crash-course
@@ -51,13 +51,14 @@ A collection of useful references for AI and ML science and engineering.
   * https://www.youtube.com/c/TensorFlow
   * https://www.youtube.com/c/HuggingFace
 * Research groups:
- * https://openai.com/
- * https://www.deeplearning.ai/
+  * https://openai.com/
+  * https://www.deeplearning.ai/
 ### Transformers
 * https://huggingface.co/
-* https://github.com/CompVis/stable-diffusion
 ### NLP
 * Beyond Accuracy: Behavioral Testing of NLP Models with CheckList ([YouTube video](https://www.youtube.com/watch?v=VqiTtdY58Ts))
+### Computer Vision
+* https://github.com/CompVis/stable-diffusion
 
 ## Data structures and algorithms
 * https://leetcode.com/
