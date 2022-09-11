@@ -1,5 +1,5 @@
 # ai-references
-A non-exhaustive collection of useful references for AI and ML science and engineering.
+A collection of useful references for AI and ML science and engineering.
 
 
 ## Engineering 
@@ -17,14 +17,32 @@ A non-exhaustive collection of useful references for AI and ML science and engin
 
 ### MLOps
 * https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf
-* https://github.com/GoogleCloudPlatform/mlops-with-vertex-ai/blob/main/02-experimentation.ipynb
+* https://github.com/GoogleCloudPlatform/mlops-with-vertex-ai
+* https://www.tensorflow.org/tfx
+* https://pytorch.org/torchx/latest/
+* https://www.kubeflow.org/
 * https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat/tree/main/remote_flow
 * https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-projects-templates-sm.html#sagemaker-projects-templates-model-building-training-deployment-model-monitor
 * https://neptune.ai/blog/category/mlops
+
 #### NLP
+* https://www.oreilly.com/live-events/deploying-nlp-models-in-production-using-mlops/0636920064921/0636920070043/
 * https://neptune.ai/blog/category/natural-language-processing
 
+## Digital Experimentation
+* https://exp-platform.com/
+* https://www.exp-platform.com/Documents/2017WSDMDengLuLitz.pdf
+* https://alexdeng.github.io/public/files/jsm2011-deng.pdf
+* https://towardsdatascience.com/chasing-statistical-ghosts-in-experimentation-3f393323a1c1
+
 ## Machine Learning
+### General
+* Books:
+ * https://d2l.ai/index.html
+* Crash courses:
+  * https://developers.google.com/machine-learning/crash-course/ml-intro
+  * https://www.algoexpert.io/machine-learning/crash-course
+  * https://www.educative.io/courses/machine-learning-for-software-engineers
 * Youtube channels:
   * [Two Minutes Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai)
   * https://www.youtube.com/c/AICoffeeBreak
@@ -32,19 +50,22 @@ A non-exhaustive collection of useful references for AI and ML science and engin
   * https://www.youtube.com/c/PyTorch
   * https://www.youtube.com/c/TensorFlow
   * https://www.youtube.com/c/HuggingFace
- * Crash courses:
-  * https://developers.google.com/machine-learning/crash-course/ml-intro
-  * https://www.algoexpert.io/machine-learning/crash-course
-  * https://www.educative.io/courses/machine-learning-for-software-engineers
+* Research groups:
+ * https://openai.com/
+ * https://www.deeplearning.ai/
+### Transformers
+* https://huggingface.co/
+* https://github.com/CompVis/stable-diffusion
 ### NLP
 * Beyond Accuracy: Behavioral Testing of NLP Models with CheckList ([YouTube video](https://www.youtube.com/watch?v=VqiTtdY58Ts))
-#### ASAG
-* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7334688/
 
 ## Data structures and algorithms
 * https://leetcode.com/
 * https://www.educative.io/path/ace-python-coding-interview
 * https://www.algoexpert.io/product
+
+## Mathematics & Statistics
+* https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html
 
 ## Interviewing
 * https://github.com/khangich/machine-learning-interview/
