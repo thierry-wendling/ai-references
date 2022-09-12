@@ -1,5 +1,5 @@
 # ai-references
-A collection of useful references for AI/ML science and engineering.
+A collection of useful references for AI/ML research and engineering.
 
 ## Tech Blogs
 * https://github.com/checkcheckzz/system-design-interview#-company-engineering-blogs
