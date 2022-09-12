@@ -6,6 +6,16 @@ A collection of useful references for AI/ML science and engineering.
 * https://developer.nvidia.com/blog
 * https://neptune.ai/blog
 
+## YouTube Channels
+* https://www.youtube.com/c/StanfordMLSysSeminars
+* [Two Minutes Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai)
+* https://www.youtube.com/c/AICoffeeBreak
+* https://www.youtube.com/c/AssemblyAI
+* https://www.youtube.com/c/PyTorch
+* https://www.youtube.com/c/TensorFlow
+* https://www.youtube.com/c/HuggingFace
+* https://www.youtube.com/c/WeightsBiases/featured
+
 ## Cloud Architecture
 * https://cloud.google.com/architecture
 * https://aws.amazon.com/architecture
@@ -19,44 +29,36 @@ A collection of useful references for AI/ML science and engineering.
 ## MLOps
 * https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf
 * https://neptune.ai/blog/category/mlops
+* https://www.oreilly.com/live-events/deploying-nlp-models-in-production-using-mlops/0636920064921/0636920070043/
+* https://neptune.ai/blog/category/natural-language-processing
 * https://github.com/GoogleCloudPlatform/mlops-with-vertex-ai
 * https://docs.github.com/en/actions
 * https://wandb.ai/site
 * https://mlflow.org/
-* https://cloud.google.com/vertex-ai
-* [AWS SageMaker](https://aws.amazon.com/pm/sagemaker/?trk=ba84e666-9a76-470d-9c91-2864b6cfbb7a&sc_channel=ps&s_kwcid=AL!4422!3!532547883839!e!!g!!aws%20sagemaker&ef_id=Cj0KCQjwjvaYBhDlARIsAO8PkE1-hL0mRZUh4WRjq4m56mgu4AWTr6gKzxJIv7KdsoOLYokTUeEFLmMaAnBrEALw_wcB:G:s&s_kwcid=AL!4422!3!532547883839!e!!g!!aws%20sagemaker)
 * https://www.tensorflow.org/tfx
 * https://pytorch.org/torchx/latest/
 * https://www.kubeflow.org/
 * https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat/tree/main/remote_flow
+* https://cloud.google.com/vertex-ai
+* [AWS SageMaker](https://aws.amazon.com/pm/sagemaker/?trk=ba84e666-9a76-470d-9c91-2864b6cfbb7a&sc_channel=ps&s_kwcid=AL!4422!3!532547883839!e!!g!!aws%20sagemaker&ef_id=Cj0KCQjwjvaYBhDlARIsAO8PkE1-hL0mRZUh4WRjq4m56mgu4AWTr6gKzxJIv7KdsoOLYokTUeEFLmMaAnBrEALw_wcB:G:s&s_kwcid=AL!4422!3!532547883839!e!!g!!aws%20sagemaker)
 * [AWS SageMaker MLOps templates](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-projects-templates-sm.html#sagemaker-projects-templates-model-building-training-deployment-model-monitor)
-* https://www.oreilly.com/live-events/deploying-nlp-models-in-production-using-mlops/0636920064921/0636920070043/
-* https://neptune.ai/blog/category/natural-language-processing
 
 ## Machine Learning
-### Learning
-  * https://d2l.ai/index.html
-  * https://www.tensorflow.org/resources/learn-ml
-  * https://www.tensorflow.org/tutorials
-  * https://pytorch.org/tutorials/
-  * https://scikit-learn.org/stable/tutorial/index.html
-  * https://developers.google.com/machine-learning/crash-course/ml-intro
-  * https://www.algoexpert.io/machine-learning/crash-course
-  * https://www.educative.io/courses/machine-learning-for-software-engineers
+### Learn
+* https://d2l.ai/index.html
+* https://www.tensorflow.org/resources/learn-ml
+* https://www.tensorflow.org/tutorials
+* https://pytorch.org/tutorials/
+* https://scikit-learn.org/stable/tutorial/index.html
+* https://developers.google.com/machine-learning/crash-course/ml-intro
+* https://www.algoexpert.io/machine-learning/crash-course
+* https://www.educative.io/courses/machine-learning-for-software-engineers
 ### Frameworks and libraries
 * https://www.tensorflow.org/ and https://keras.io/
 * https://pytorch.org/ and https://www.pytorchlightning.ai/
 * https://scikit-learn.org/stable/
 * https://huggingface.co/
 * https://opencv.org/
-### News
-  * [Two Minutes Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai)
-  * https://www.youtube.com/c/AICoffeeBreak
-  * https://www.youtube.com/c/AssemblyAI
-  * https://www.youtube.com/c/PyTorch
-  * https://www.youtube.com/c/TensorFlow
-  * https://www.youtube.com/c/HuggingFace
-  * https://www.youtube.com/c/WeightsBiases/featured
 ### Research groups
   * https://openai.com/
   * https://www.deeplearning.ai/
