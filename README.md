@@ -31,6 +31,12 @@ A collection of useful references for AI/ML research and engineering.
 * https://cloud.google.com/architecture
 * https://aws.amazon.com/architecture
 
+## Software Engineering
+### CICD
+* github.com:domain-group/github-oidc-config
+* https://docs.github.com/en/actions
+* https://neptune.ai/blog/continuous-integration-continuous-deployment-tools-for-machine-learning
+
 ## Machine Learning
 ### Learn
 * https://d2l.ai/index.html
@@ -64,7 +70,6 @@ A collection of useful references for AI/ML research and engineering.
 * https://www.oreilly.com/live-events/deploying-nlp-models-in-production-using-mlops/0636920064921/0636920070043/
 * https://neptune.ai/blog/category/natural-language-processing
 * https://github.com/GoogleCloudPlatform/mlops-with-vertex-ai
-* https://docs.github.com/en/actions
 * https://wandb.ai/site
 * https://mlflow.org/
 * https://www.tensorflow.org/tfx
