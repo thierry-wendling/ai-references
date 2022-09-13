@@ -27,11 +27,10 @@ A collection of useful references for AI/ML research and engineering.
 * https://www.youtube.com/c/HuggingFace
 * https://www.youtube.com/c/WeightsBiases/featured
 
-## Cloud Architecture
+## Software Engineering
+### Cloud Architecture
 * https://cloud.google.com/architecture
 * https://aws.amazon.com/architecture
-
-## Software Engineering
 ### CICD
 * github.com:domain-group/github-oidc-config
 * https://docs.github.com/en/actions
