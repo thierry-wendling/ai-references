@@ -1,12 +1,12 @@
 # ai-references
 A collection of useful references for AI/ML research and engineering.
 
-## Tech Blogs
+## News Channels
+### Tech Blogs
 * https://github.com/checkcheckzz/system-design-interview#-company-engineering-blogs
 * https://developer.nvidia.com/blog
 * https://neptune.ai/blog
-
-## Research Groups
+### Research Groups
  * https://openai.com/
  * https://www.deeplearning.ai/
  * https://research.google/
@@ -16,8 +16,7 @@ A collection of useful references for AI/ML research and engineering.
  * https://machinelearning.apple.com/
  * https://ai.facebook.com/
  * https://research.atspotify.com/machine-learning/
-
-## YouTube Channels
+### YouTube Channels
 * https://www.youtube.com/c/StanfordMLSysSeminars
 * [Two Minutes Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai)
 * https://www.youtube.com/c/AICoffeeBreak
