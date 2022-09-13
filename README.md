@@ -27,7 +27,15 @@ A collection of useful references for AI/ML research and engineering.
 * https://www.youtube.com/c/HuggingFace
 * https://www.youtube.com/c/WeightsBiases/featured
 
-## Software Engineering
+## Fundamentals
+### Data Structures & Algorithms
+* https://leetcode.com/
+* https://www.educative.io/path/ace-python-coding-interview
+* https://www.algoexpert.io/product
+### Mathematics & Statistics
+* https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html
+
+## Software Development
 ### Cloud Architecture
 * https://cloud.google.com/architecture
 * https://aws.amazon.com/architecture
@@ -35,6 +43,10 @@ A collection of useful references for AI/ML research and engineering.
 * https://neptune.ai/blog/continuous-integration-continuous-deployment-tools-for-machine-learning
 * https://docs.github.com/en/actions
 * https://circleci.com/blog/top-5-ci-cd-best-practices/
+
+## Data Engineering
+* https://www.snowflake.com/wp-content/uploads/2019/12/11-best-practices-for-data-engineers.pdf
+* https://datavaultalliance.com/about/what-is-datavault/
 
 ## Machine Learning
 ### Learn
@@ -84,16 +96,6 @@ A collection of useful references for AI/ML research and engineering.
 * https://pytorch.org/hub/
 * https://github.com/CompVis/stable-diffusion
 
-## Data Engineering
-* https://www.snowflake.com/wp-content/uploads/2019/12/11-best-practices-for-data-engineers.pdf
-* https://datavaultalliance.com/about/what-is-datavault/
-
-## Digital Experimentation
-* https://exp-platform.com/
-* https://www.exp-platform.com/Documents/2017WSDMDengLuLitz.pdf
-* https://alexdeng.github.io/public/files/jsm2011-deng.pdf
-* https://towardsdatascience.com/chasing-statistical-ghosts-in-experimentation-3f393323a1c1
-
 ## Responsible AI
 * https://www.microsoft.com/en-us/ai/responsible-ai
 * https://ai.google/responsibilities/responsible-ai-practices/
@@ -102,13 +104,11 @@ A collection of useful references for AI/ML research and engineering.
 * https://modelcards.withgoogle.com/about
 * https://mlco2.github.io/impact/
 
-## Data Structures & Algorithms
-* https://leetcode.com/
-* https://www.educative.io/path/ace-python-coding-interview
-* https://www.algoexpert.io/product
-
-## Mathematics & Statistics
-* https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html
+## Digital Experimentation
+* https://exp-platform.com/
+* https://www.exp-platform.com/Documents/2017WSDMDengLuLitz.pdf
+* https://alexdeng.github.io/public/files/jsm2011-deng.pdf
+* https://towardsdatascience.com/chasing-statistical-ghosts-in-experimentation-3f393323a1c1
 
 ## Interviews
 * https://github.com/donnemartin/system-design-primer
