@@ -32,9 +32,9 @@ A collection of useful references for AI/ML research and engineering.
 * https://cloud.google.com/architecture
 * https://aws.amazon.com/architecture
 ### CICD
-* github.com:domain-group/github-oidc-config
-* https://docs.github.com/en/actions
 * https://neptune.ai/blog/continuous-integration-continuous-deployment-tools-for-machine-learning
+* https://docs.github.com/en/actions
+* https://circleci.com/blog/top-5-ci-cd-best-practices/
 
 ## Machine Learning
 ### Learn
