@@ -73,6 +73,9 @@ A collection of useful references for AI/ML research and engineering.
 * https://huggingface.co/
 * https://opencv.org/
 * https://www.ray.io/ray-tune
+* https://lambdalabs.com/
+* https://wandb.ai/site
+* https://mlflow.org/
 ### MLOps
 * [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://research.google/pubs/pub46555/)
 * https://storage.googleapis.com/pub-tools-public-publication-data/pdf/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf
@@ -81,8 +84,6 @@ A collection of useful references for AI/ML research and engineering.
 * https://www.oreilly.com/live-events/deploying-nlp-models-in-production-using-mlops/0636920064921/0636920070043/
 * https://neptune.ai/blog/category/natural-language-processing
 * https://github.com/GoogleCloudPlatform/mlops-with-vertex-ai
-* https://wandb.ai/site
-* https://mlflow.org/
 * https://www.tensorflow.org/tfx
 * https://pytorch.org/torchx/latest/
 * https://www.kubeflow.org/
