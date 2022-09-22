@@ -17,6 +17,11 @@ A collection of useful references for AI/ML research and engineering.
  * https://ai.facebook.com/
  * https://research.atspotify.com/machine-learning/
 ### YouTube Channels
+* [Crash Couse - Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+* https://www.youtube.com/c/IBMTechnology
+* https://www.youtube.com/user/googlecloudplatform
+* https://www.youtube.com/c/amazonwebservices/featured
+* [The A.I. Hacker](https://www.youtube.com/channel/UCYpBgT4riB-VpsBBBQkblqQ)
 * https://www.youtube.com/c/StanfordMLSysSeminars
 * [Two Minutes Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai)
 * https://www.youtube.com/c/AICoffeeBreak
