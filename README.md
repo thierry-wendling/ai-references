@@ -102,7 +102,13 @@ A collection of useful references for AI/ML research and engineering.
 * https://pytorch.org/hub/
 * https://github.com/CompVis/stable-diffusion
 
-## Responsible AI
+## AI Best Practices & Responsible AI 
+* https://c3.ai/wp-content/uploads/2020/06/Best-Practices-in-Developing-an-Enterprise-AI-Roadmap.pdf
+* https://c3.ai/wp-content/uploads/2020/06/Best-Practices-in-Creating-CoE.pdf
+* https://c3.ai/wp-content/uploads/2020/06/Best-Practices-in-Enterprise-AI-App-Dev.pdf
+* https://oecd.ai/en/ai-principles
+* https://ai.google/principles/
+* https://www.industry.gov.au/publications/australias-artificial-intelligence-ethics-framework
 * https://www.microsoft.com/en-us/ai/responsible-ai
 * https://ai.google/responsibilities/responsible-ai-practices/
 * https://github.com/microsoft/responsible-ai-toolbox
