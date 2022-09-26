@@ -1,5 +1,5 @@
 # ai-references
-A collection of useful references for AI/ML research and engineering.
+A collection of useful references for AI/ML research and development.
 
 ## News Channels
 ### Tech Blogs
