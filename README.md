@@ -102,7 +102,7 @@ A collection of useful references for AI/ML research and development.
 * https://pytorch.org/hub/
 * https://github.com/CompVis/stable-diffusion
 
-## AI Best Practices & Responsible AI 
+## AI Best/Responsible Practices
 * https://c3.ai/wp-content/uploads/2020/06/Best-Practices-in-Developing-an-Enterprise-AI-Roadmap.pdf
 * https://c3.ai/wp-content/uploads/2020/06/Best-Practices-in-Creating-CoE.pdf
 * https://c3.ai/wp-content/uploads/2020/06/Best-Practices-in-Enterprise-AI-App-Dev.pdf
