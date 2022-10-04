@@ -107,6 +107,9 @@ A collection of useful references for AI/ML research and development.
 * https://github.com/rmunro/pytorch_active_learning
 * https://www.geeksforgeeks.org/ml-active-learning/
 * https://github.com/google/active-learning
+* https://burrsettles.com/pub/settles.activelearning.pdf
+* https://keras.io/examples/nlp/active_learning_review_classification/
+* https://github.com/modAL-python/modAL
 
 ## AI Best/Responsible Practices
 * https://c3.ai/wp-content/uploads/2020/06/Best-Practices-in-Developing-an-Enterprise-AI-Roadmap.pdf
