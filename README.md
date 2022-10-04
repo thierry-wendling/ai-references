@@ -139,7 +139,7 @@ A collection of useful references for AI/ML research and development.
 * https://alexdeng.github.io/public/files/jsm2011-deng.pdf
 * https://towardsdatascience.com/chasing-statistical-ghosts-in-experimentation-3f393323a1c1
 
-## Interviews
+## Interviewing
 * https://github.com/donnemartin/system-design-primer
 * https://github.com/checkcheckzz/system-design-interview
 * [Educative.io - Grokking The Machine Learning Interview](https://www.google.com/search?q=grokking+the+machine+learning+interview&oq=gorkking+the+mahcine+learning+&aqs=chrome.1.69i57j0i13l4j0i22i30l5.4108j0j4&sourceid=chrome&ie=UTF-8)
