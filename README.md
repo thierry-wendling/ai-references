@@ -101,6 +101,11 @@ A collection of useful references for AI/ML research and development.
 * https://www.tensorflow.org/hub
 * https://pytorch.org/hub/
 * https://github.com/CompVis/stable-diffusion
+### Active Learning
+* [A Survey of Deep Active Learning](https://arxiv.org/pdf/2009.00236.pdf)
+* https://www.manning.com/books/human-in-the-loop-machine-learning
+* https://github.com/rmunro/pytorch_active_learning
+* https://www.geeksforgeeks.org/ml-active-learning/
 
 ## AI Best/Responsible Practices
 * https://c3.ai/wp-content/uploads/2020/06/Best-Practices-in-Developing-an-Enterprise-AI-Roadmap.pdf
