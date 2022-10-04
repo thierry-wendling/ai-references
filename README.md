@@ -101,8 +101,8 @@ A collection of useful references for AI/ML research and development.
 * https://www.tensorflow.org/hub
 * https://pytorch.org/hub/
 * https://github.com/CompVis/stable-diffusion
-### Labelling
-#### Programatic labelling
+### Labelling strategies
+#### Programmatic Labeling
 * https://snorkel.ai/programmatic-labeling/
 #### Active Learning
 * [A Survey of Deep Active Learning](https://arxiv.org/pdf/2009.00236.pdf)
@@ -115,6 +115,9 @@ A collection of useful references for AI/ML research and development.
 * https://github.com/modAL-python/modAL
 * [AWS SageMaker A2I](https://docs.aws.amazon.com/sagemaker/latest/dg/a2i-use-augmented-ai-a2i-human-review-loops.html)
 * https://cloud.google.com/vertex-ai/docs/samples/aiplatform-create-data-labeling-job-active-learning-sample
+#### Synthesis
+* https://github.com/makcedward/nlpaug
+* [Do Not Have Enough Data? Deep Learning to the Rescue!](https://arxiv.org/pdf/1911.03118.pdf)
 
 ## AI Best/Responsible Practices
 * https://c3.ai/wp-content/uploads/2020/06/Best-Practices-in-Developing-an-Enterprise-AI-Roadmap.pdf
