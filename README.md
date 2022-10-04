@@ -106,6 +106,7 @@ A collection of useful references for AI/ML research and development.
 * https://www.manning.com/books/human-in-the-loop-machine-learning
 * https://github.com/rmunro/pytorch_active_learning
 * https://www.geeksforgeeks.org/ml-active-learning/
+* https://github.com/google/active-learning
 
 ## AI Best/Responsible Practices
 * https://c3.ai/wp-content/uploads/2020/06/Best-Practices-in-Developing-an-Enterprise-AI-Roadmap.pdf
