@@ -107,8 +107,9 @@ A collection of useful references for AI/ML research and development.
 * https://huggingface.co/blog/setfit
 * https://ruder.io/recent-advances-lm-fine-tuning/
 ### Labelling strategies
-#### Programmatic Labeling
+#### Programmatic Labeling/weak supervision
 * https://snorkel.ai/programmatic-labeling/
+* [Training Complex Models with Multi-Task Weak Supervision](https://arxiv.org/pdf/1810.02840.pdf)
 #### Active Learning
 * [A Survey of Deep Active Learning](https://arxiv.org/pdf/2009.00236.pdf)
 * https://www.manning.com/books/human-in-the-loop-machine-learning
