@@ -6,6 +6,8 @@ A collection of useful references for AI/ML research and development.
 * https://github.com/checkcheckzz/system-design-interview#-company-engineering-blogs
 * https://developer.nvidia.com/blog
 * https://neptune.ai/blog
+* https://ruder.io/
+* https://huyenchip.com/blog/
 ### Research Groups
  * https://openai.com/
  * https://www.deeplearning.ai/
@@ -71,7 +73,6 @@ A collection of useful references for AI/ML research and development.
 * [Educative.io - Grokking The Machine Learning Interview](https://www.google.com/search?q=grokking+the+machine+learning+interview&oq=gorkking+the+mahcine+learning+&aqs=chrome.1.69i57j0i13l4j0i22i30l5.4108j0j4&sourceid=chrome&ie=UTF-8)
 * https://neptune.ai/blog/improving-machine-learning-deep-learning-models
 * Beyond Accuracy: Behavioral Testing of NLP Models with CheckList ([YouTube video](https://www.youtube.com/watch?v=VqiTtdY58Ts))
-* https://huyenchip.com/blog/
 ### Frameworks and libraries
 * https://www.tensorflow.org/ and https://keras.io/
 * https://pytorch.org/ and https://www.pytorchlightning.ai/
