@@ -97,11 +97,14 @@ A collection of useful references for AI/ML research and development.
 * https://cloud.google.com/vertex-ai
 * [AWS SageMaker](https://aws.amazon.com/pm/sagemaker/?trk=ba84e666-9a76-470d-9c91-2864b6cfbb7a&sc_channel=ps&s_kwcid=AL!4422!3!532547883839!e!!g!!aws%20sagemaker&ef_id=Cj0KCQjwjvaYBhDlARIsAO8PkE1-hL0mRZUh4WRjq4m56mgu4AWTr6gKzxJIv7KdsoOLYokTUeEFLmMaAnBrEALw_wcB:G:s&s_kwcid=AL!4422!3!532547883839!e!!g!!aws%20sagemaker)
 * [AWS SageMaker MLOps templates](https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-projects-templates-sm.html#sagemaker-projects-templates-model-building-training-deployment-model-monitor)
-### Open-source models
+### Open-source model hubs
 * https://huggingface.co/models
 * https://www.tensorflow.org/hub
 * https://pytorch.org/hub/
 * https://github.com/CompVis/stable-diffusion
+### Transfer learning
+* https://huggingface.co/blog/setfit
+* https://ruder.io/recent-advances-lm-fine-tuning/
 ### Labelling strategies
 #### Programmatic Labeling
 * https://snorkel.ai/programmatic-labeling/
