@@ -113,6 +113,7 @@ A collection of useful references for AI/ML research and development.
 #### Active Learning
 * [A Survey of Deep Active Learning](https://arxiv.org/pdf/2009.00236.pdf)
 * https://www.manning.com/books/human-in-the-loop-machine-learning
+* [Human-And-Model-in-the-Loop Enabled Training (HAMLET)](https://scontent.fsyd11-2.fna.fbcdn.net/v/t39.2365-6/154592066_432809444447179_6038034780091832627_n.pdf?_nc_cat=107&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=dEDM3b8l6ocAX98dp5A&_nc_ht=scontent.fsyd11-2.fna&oh=00_AT-9liFAlAFdQNQqkCyuukqWHd-l98HbpD3_Rrpfyq6uAQ&oe=63446BE4)
 * https://baal.readthedocs.io/en/latest/
 * https://github.com/rmunro/pytorch_active_learning
 * https://www.geeksforgeeks.org/ml-active-learning/
