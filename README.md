@@ -38,8 +38,9 @@ A collection of useful references for AI/ML research and development.
 * https://leetcode.com/
 * https://www.educative.io/path/ace-python-coding-interview
 * https://www.algoexpert.io/product
-* [Nearest neighbors and vector models – part 2 – algorithms and data structures](https://erikbern.com/2015/10/01/nearest-neighbors-and-vector-models-part-2-how-to-search-in-high-dimensional-spaces.html)
-* [CHAPTER 3: INVERTED FILES](http://orion.lcg.ufrj.br/Dr.Dobbs/books/book5/chap03.htm)
+* Indexing
+  * [Nearest neighbors and vector models – part 2 – algorithms and data structures](https://erikbern.com/2015/10/01/nearest-neighbors-and-vector-models-part-2-how-to-search-in-high-dimensional-spaces.html)
+  * [CHAPTER 3: INVERTED FILES](http://orion.lcg.ufrj.br/Dr.Dobbs/books/book5/chap03.htm)
 ### Mathematics & Statistics
 * https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html
 
