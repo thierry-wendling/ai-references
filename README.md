@@ -48,6 +48,9 @@ A collection of useful references for AI/ML research and development.
 ### Cloud Architecture
 * https://cloud.google.com/architecture
 * https://aws.amazon.com/architecture
+### IaC
+* https://www.terraform.io/
+* https://aws.amazon.com/cdk/
 ### CICD
 * https://neptune.ai/blog/continuous-integration-continuous-deployment-tools-for-machine-learning
 * https://docs.github.com/en/actions
