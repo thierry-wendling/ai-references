@@ -44,6 +44,7 @@ A collection of useful references for AI/ML research and development.
   * [CHAPTER 3: INVERTED FILES](http://orion.lcg.ufrj.br/Dr.Dobbs/books/book5/chap03.htm)
 ### Mathematics & Statistics
 * https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html
+* https://mml-book.github.io/book/mml-book.pdf
 
 ## Software Development
 ### Cloud Architecture
@@ -65,13 +66,14 @@ A collection of useful references for AI/ML research and development.
 ### Learn
 * https://d2l.ai/index.html
 * [One machine learning question every day - bnomial](https://today.bnomial.com/)
-* https://www.tensorflow.org/resources/learn-ml
-* https://www.tensorflow.org/tutorials
-* https://pytorch.org/tutorials/
-* https://scikit-learn.org/stable/tutorial/index.html
 * https://developers.google.com/machine-learning/crash-course/ml-intro
 * https://www.algoexpert.io/machine-learning/crash-course
 * https://www.educative.io/courses/machine-learning-for-software-engineers
+* https://www.learnpytorch.io/
+* https://pytorch.org/tutorials/
+* https://www.tensorflow.org/resources/learn-ml
+* https://www.tensorflow.org/tutorials
+* https://scikit-learn.org/stable/tutorial/index.html
 ### System Design
 * https://developers.google.com/machine-learning/guides/rules-of-ml
 * [Hidden Technical Debt in Machine Learning Systems](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
