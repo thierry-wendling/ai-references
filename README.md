@@ -71,6 +71,7 @@ A collection of useful references for AI/ML research and development.
 * https://developers.google.com/machine-learning/crash-course/ml-intro
 * https://www.algoexpert.io/machine-learning/crash-course
 * https://www.educative.io/courses/machine-learning-for-software-engineers
+* [One machine learning question every day - bnomial](https://today.bnomial.com/)
 ### System Design
 * https://developers.google.com/machine-learning/guides/rules-of-ml
 * [Hidden Technical Debt in Machine Learning Systems](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
