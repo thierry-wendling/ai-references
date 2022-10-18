@@ -58,9 +58,13 @@ A collection of useful references for AI/ML research and development.
 * https://docs.github.com/en/actions
 * https://circleci.com/blog/top-5-ci-cd-best-practices/
 
-## Data Engineering
+## Data Modelling & Engineering
 * https://www.snowflake.com/wp-content/uploads/2019/12/11-best-practices-for-data-engineers.pdf
 * https://datavaultalliance.com/about/what-is-datavault/
+* https://www.stardog.com/knowledge-graph/
+* https://cloud.google.com/blog/topics/developers-practitioners/definitive-guide-databases-google-cloud-part-1-data-modeling-basics
+* https://neo4j.com/developer/graph-database/
+* https://cloud.google.com/blog/products/ai-machine-learning/analyze-graph-data-on-google-cloud-with-neo4j-and-vertex-ai
 
 ## Machine Learning
 ### Learn
