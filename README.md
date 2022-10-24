@@ -59,6 +59,7 @@ A collection of useful references for AI/ML research and development.
 * https://circleci.com/blog/top-5-ci-cd-best-practices/
 
 ## Data Modelling & Engineering
+* https://madewithml.com/courses/mlops/data-stack/
 * https://www.snowflake.com/wp-content/uploads/2019/12/11-best-practices-for-data-engineers.pdf
 * https://datavaultalliance.com/about/what-is-datavault/
 * https://www.stardog.com/knowledge-graph/
@@ -102,6 +103,7 @@ A collection of useful references for AI/ML research and development.
 * https://storage.googleapis.com/pub-tools-public-publication-data/pdf/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf
 * https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf
 * https://neptune.ai/blog/category/mlops
+* https://madewithml.com/courses/mlops/design/
 * https://www.oreilly.com/live-events/deploying-nlp-models-in-production-using-mlops/0636920064921/0636920070043/
 * https://neptune.ai/blog/category/natural-language-processing
 * https://github.com/GoogleCloudPlatform/mlops-with-vertex-ai
