@@ -99,7 +99,7 @@ A collection of useful references for AI/ML research and development.
 * https://wandb.ai/site
 * https://mlflow.org/
 ### MLOps
-* [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction]([https://research.google/pubs/pub46555/](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf)
+* [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf)
 * https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf
 * https://neptune.ai/blog/category/mlops
 * https://madewithml.com/courses/mlops/design/
