@@ -25,6 +25,7 @@ A collection of useful references for AI/ML research and development.
 * https://www.youtube.com/c/amazonwebservices/featured
 * [The A.I. Hacker](https://www.youtube.com/channel/UCYpBgT4riB-VpsBBBQkblqQ)
 * https://www.youtube.com/c/StanfordMLSysSeminars
+* https://www.youtube.com/c/AndrejKarpathy/videos
 * [Two Minutes Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai)
 * https://www.youtube.com/c/YannicKilcher
 * https://www.youtube.com/c/AICoffeeBreak
